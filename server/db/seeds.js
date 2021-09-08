@@ -5,16 +5,16 @@ db.guests.insertMany([
     {
         name: "Ron Perlman",
         email: "ron.perlman@gmail.com",
-        status: true
+        status: "Yes"
     },
     {
         name: "Angelina Jolie",
         email: "angjolie@hotmail.co.uk",
-        status: false
+        status: "No"
     },
     {
         name: "Elton John",
         email: "ejohn@yahoo.com",
-        status: true
+        status: "Yes"
     }
 ]);
